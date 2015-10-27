@@ -37,7 +37,7 @@
   #+REVEAL: split
 
   
-  - Crowd Sourcing.
+  - Crowdsourcing.
     #+ATTR_HTML: :width 400 :height 300
     [[file:images/customer.jpg]]
     - Criação de rede e, portanto, fidelidade do usuário.
@@ -57,8 +57,8 @@
   - Marketplace de Data Apps e serviços
     #+ATTR_HTML: image: :width 450 :hight 450
     [[file:images/ipad-407799_1920.jpg]]
-    - A nosso base de dados com uma "public utility": um "backend" de dados comum
-      como plataforma para aplicativos.
+    - A nosso base de dados como uma "public utility": "backend" de
+      dados comum como plataforma para aplicativos.
 
 
   #+REVEAL: split
@@ -131,13 +131,13 @@
 
 * Estimação de Desenvolvimento?
   - Estima-se investimento de aproximadamente 3 meses com recurso adequados para:
-    - Finalização do desenvolvimento de FrontEnd inicial
+    - Finalização do desenvolvimento de FrontEnd inicial.
     - Aceleração de captura de novas base de dados.
     - Desenvolvimento dos primeiros aplicativos proprietários para disponibilização.
 
 * Onde estamos?
+    #+ATTR_REVEAL: :frag (roll-in roll-in roll-in roll-in roll-in roll-in) :frag_idx (1 2 3 4 5 6)
   - Desenvolvimento de Tecnologia Cloud:
-  #+ATTR_REVEAL: :frag (roll-in roll-in roll-in roll-in roll-in roll-in) :frag_idx (1 2 3 4 5 6)
     - [X] Estrutura de Base de dados e inicio de captura.
     - [X] FrontEnd inicial.
     - [X] Versão 0.1 da máquina de pesquisa.
