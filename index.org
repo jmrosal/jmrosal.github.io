@@ -1,0 +1,183 @@
+#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
+#+AUTHOR: FinnaCloud Team
+#+TITLE: FinnaCloud
+#+Email: jmrosal@finnacloud.com
+#+OPTIONS: toc:nil num:nil
+#+REVEAL_HLEVEL: 2
+#+REVEAL_TRANS: linear
+#+REVEAL_HEAD_PREAMBLE: <link rel="stylesheet" href=https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css/>
+
+
+* Value Proposition  
+
+  #+BEGIN_QUOTE
+  Criar valor através do acesso fácil, compartilhado e modular dos dados e 
+  de ferramentas analíticas.
+  #+END_QUOTE
+
+* Princípios
+  
+  - Facilidade.
+
+    #+ATTR_HTML: image: :width 450 :hight 450
+    [[file:images/facility.jpg]]
+
+    - Trazer o universo dos dados para internet 2.0.
+
+
+  #+REVEAL: split
+
+
+  - Modularidade
+    #+ATTR_HTML: :width 400 :height 400
+    [[http://homeli.co.uk/wp-content/uploads/2013/12/Enormous-Rainbow-Cubit-Modular-Shelving-Installation-Multi-Coloured.jpg]]
+    - Descriminar demanda dos clientes e aprimorar processo de criação de valor.
+
+
+  #+REVEAL: split
+
+  
+  - Crowd Sourcing.
+    #+ATTR_HTML: :width 400 :height 300
+    [[file:images/customer.jpg]]
+    - Criação de rede e, portanto, fidelidade do usuário.
+   
+* O que é FinnaCloud?
+  
+  - Data Warehouse
+
+    #+ATTR_HTML: image: :width 300 :hight 300
+    [[file:images/database-149760_1280.png]]
+    - Repositório de dados de acesso fácil e intuitivo através de uma 
+      máquina de pesquisa poderosa.
+
+      #+REVEAL: split
+
+
+  - Marketplace de Data Apps e serviços
+    #+ATTR_HTML: image: :width 450 :hight 450
+    [[file:images/ipad-407799_1920.jpg]]
+    - A nosso base de dados com uma "public utility": um "backend" de dados comum
+      como plataforma para aplicativos.
+
+
+  #+REVEAL: split
+  
+
+  - Rede de Usuário de Dados
+    #+ATTR_HTML: image: :width 450 :hight 450
+    [[file:images/system-927155_1920.jpg]]
+    - Criação de crowdsourcing através do compartilhamento de informações e insights.
+
+            
+
+  #+REVEAL: split
+
+
+  - Exemplos de Plataforma sociais "técnicas":
+    - Finanças E.U.A.: [[http://seekingalpha.com/][seekingalpha]]
+    - Jurídico - Brasil: [[http://www.jusbrasil.com.br/bem-vindo][jusbrasil]]
+
+* Tecnologia 
+  #+ATTR_REVEAL: :frag (roll-in roll-in roll-in roll-in roll-in) :frag_idx (1 2 3 4)
+  - Backend 100% nas nuvens: base de dados, aplicativos etc
+  - Máquina de pesquisa de dados similar ao google search.
+  - Api Restful.
+  - Software clientes para consumo:
+    - Addin Excel.
+    - Addin Google Driver.
+    - Client Python.
+    - Client R.
+    - Etc.
+
+
+* Players Existentes
+  - [[https://www.quandl.com][Quandl: Data Backend de dados - Canadá]]
+    - 100% Cloudbased.
+    - Modelo de subscrição de bases curadas por parceiros.
+    - Utilizado para backtests de modelos quant. Algum tipo de crowdsourcing.
+
+      #+REVEAL: split
+
+
+  - [[http://www.tradingeconomics.com/][Trading Economics]]
+    - 100% Cloudbased.
+    - Modelo de subscrição.
+    - Excelente Interface. Dados econômicos estruturados e sem compartilhamento.
+
+      #+REVEAL: split
+
+
+  - [[http://www.quantumfundos.com.br][Quantum - Brasil]]
+    - Semi-Cloudbased.
+    - Modelo monolítico de dados de aplicativos: tudo ou nada.
+    - Reconhecido pelas informações (Públicas) de Fundos Investimento.
+
+      #+REVEAL: split
+
+
+  - [[https://economatica.com/][Economática - Brasil]]
+    - Semi-Cloudbased.
+    - Modelo monolítico de dados e de aplicativos: tudo ou nada.
+    - Reconhecida pelas informações (públicas) de companhias abertas.
+
+      #+REVEAL: split
+
+
+  - Retailers Dominantes: Bloomberg, Reuters, etc.
+    - Semi-Cloudbased.
+    - Monolíticos.
+    - Alguma rede social.
+
+* Estimação de Desenvolvimento?
+  - Estima-se investimento de aproximadamente 3 meses com recurso adequados para:
+    - Finalização do desenvolvimento de FrontEnd inicial
+    - Aceleração de captura de novas base de dados.
+    - Desenvolvimento dos primeiros aplicativos proprietários para disponibilização.
+
+* Onde estamos?
+  - Desenvolvimento de Tecnologia Cloud:
+  #+ATTR_REVEAL: :frag (roll-in roll-in roll-in roll-in roll-in roll-in) :frag_idx (1 2 3 4 5 6)
+    - [X] Estrutura de Base de dados e inicio de captura.
+    - [X] FrontEnd inicial.
+    - [X] Versão 0.1 da máquina de pesquisa.
+    - [X] Compartilhamento de dados e tabelas.
+    - [X] Api para dados e relatórios de parceiros.
+    - [X] Vários softwares clientes: Excel, R, Python
+ 
+* Estratégia de Lançamento e Disseminação
+
+  - Foco em dados brasileiros:
+    - Estruturados: Banco Central, IBGE, FED
+    - Não-Estruturados: CEPEA, FIPEZAP, CBIC, etc.
+  - Parcerias.
+    - Exemplo: Sagire - Consultoria Quant.
+  - Educação.
+    - Cursos de modelagem financeira com utilizando tecnologia FinnaCloud.
+
+* Fundadores
+  - *João Maurício Rosal*
+    - Mais de 10 anos de mercado financeiro como economista e estrategista.
+    - Professor universitário de economia e data science.
+    - [[https://br.linkedin.com/in/jmrosal][Linkedin]]
+     
+      #+REVEAL: split
+
+
+ - *Bruno Morozini*
+    - Empreendedor serial em tecnologia web.
+    - Mais de 10 anos como devOps
+    - [[https://br.linkedin.com/in/brunomorozini][Linkedin]]
+
+
+* Obrigado!!!
+
+
+  
+
+
+
+
+
+
+
