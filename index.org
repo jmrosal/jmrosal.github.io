@@ -86,8 +86,8 @@
   - Software clientes para consumo:
     - Addin Excel.
     - Addin Google Driver.
-    - Client Python.
-    - Client R.
+    - Cliente Python.
+    - Cliente R.
     - Etc.
 
 
@@ -95,7 +95,8 @@
   - [[https://www.quandl.com][Quandl: Data Backend de dados - Canadá]]
     - 100% Cloudbased.
     - Modelo de subscrição de bases curadas por parceiros.
-    - Utilizado para backtests de modelos quant. Algum tipo de crowdsourcing.
+    - Utilizado para backtests de modelos quant.
+    - Algum tipo de crowdsourcing.
 
       #+REVEAL: split
 
